@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/baseline_circle_24"
+        android:height="35dp"
+        android:width="35dp"
+
+        android:right="2dp"
+        />
+    <item
+        android:drawable="@drawable/baseline_stop_icon"
+        android:left="6.5dp"
+        android:top="7dp"
+        android:height="18dp"
+        android:width="18dp"
+        />
+</layer-list>

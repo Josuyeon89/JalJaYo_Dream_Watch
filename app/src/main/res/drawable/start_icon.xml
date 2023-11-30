@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/baseline_circle_24"
+        android:height="35dp"
+        android:width="35dp"
+        android:right="2dp"
+        />
+    <item
+        android:drawable="@drawable/baseline_start_icon"
+        android:left="4dp"
+        android:top="4.8dp"
+        android:height="22dp"
+        android:width="22dp"
+  />
+</layer-list>
